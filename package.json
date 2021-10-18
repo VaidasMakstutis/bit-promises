@@ -1,0 +1,24 @@
+{
+  "name": "bit-promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaidasMakstutis/bit-promises.git"
+  },
+  "keywords": [],
+  "author": "Vaidas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaidasMakstutis/bit-promises/issues"
+  },
+  "homepage": "https://github.com/VaidasMakstutis/bit-promises#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
